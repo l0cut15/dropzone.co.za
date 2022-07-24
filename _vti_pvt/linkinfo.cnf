@@ -1,0 +1,40 @@
+vti_encoding:SR|utf8-nl
+lib/displays/enlarge.asp:lib/displays/gallery.asp
+mailto\:blueskies@khaoz.co.za:content/contacts.htm gallery.htm content/training.htm events.htm guestbook.htm scripts/events/eventdb.asp theclub.htm
+javascript\:self.close():content/showpic.asp scripts/gallery/enlarge.asp
+http\://www.mdc.co.za/:content/links.htm
+http\://www.weathersa.co.za/glider/aero.htm:content/links.htm
+mailto\:barry@gate.net:content/quotes.htm
+<%response.write request.querystring("filename")%>:scripts/gallery/enlarge.asp
+mailto\:church@art.ohiou.edu:content/quotes.htm
+../../images/navbar/next.gif:lib/navdisplays.asp
+mailto\:<%response.write rscoldata("email",recordset)%>:lib/displays/guestbook.asp
+mailt\:sheepshagger@usa.net:content/about_this_site.htm
+http\://www.l-and-b.dk:content/links.htm
+response.write rscoldata("imageid",recordset)%>/<%response.write rscoldata("filename",recordset)%>:lib/displays/gallery.asp
+http\://www.dropzone.com:content/links.htm
+mailto\:freakfaller@dropzone.co.za:content/showpic.asp scripts/guestbook/addmessage.asp scripts/gallery/enlarge.asp
+news\:rec.skydiving:content/humor.htm content/links.htm
+mailto\:machbane@aol.com:content/quotes.htm
+../../images/navbar/prev.gif:lib/navdisplays.asp
+<%response.write request.querystring("imagename")%>:content/showpic.asp
+mailto\:tim@jumpshack.com:content/quotes.htm
+http\://<%response.write request.servervariables("server_name")%>/wpa/cpshost.dll:scripts/upload/npost.asp
+http\://www.enclave.com:content/links.htm
+http\://<%response.write rscoldata("url",recordset)%>:lib/displays/guestbook.asp
+mailto\:swoop.pcv@advalvas.be:content/quotes.htm
+http\://www.pia.com/airtec/:content/links.htm
+mailto\:pttkb@yahoo.com:content/about_this_site.htm
+http\://www.coolngroovy.com:content/links.htm
+mailto\:skydive@dropzone.co.za:content/about_this_site.htm default.htm content/prices.htm
+http\://www.uspa.org:content/links.htm
+http\://khoaz.dropzone.co.za:content/about_this_site.htm
+/uploads/thumbs/10/wsc_roofs.jpg:content/facilities.htm
+http\://www.tcol.co.uk/orgs/mpuma/mpumal.htm:content/links.htm
+mailto\:davidefs@southwind.net:content/quotes.htm
+mailto\:webmaster@dropzone.co.za:content/gallery.htm scripts/upload/npost.asp
+../../images/navbar/first.gif:lib/navdisplays.asp
+http\://www.weathersa.co.za/glider/7day/wbk.htm:content/links.htm
+../../images/navbar/last.gif:lib/navdisplays.asp
+http\://khaoz.dropzone.co.za:content/about_this_site.htm
+mailto\:ronley@shell.one.net:content/quotes.htm

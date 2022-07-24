@@ -1,0 +1,12 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|15 May 2000 12:13:21 -0000
+vti_author:SR|IUSR_EAGLE
+vti_syncwith_raven\:80/witbank.dropzone.co.za:TR|25 Apr 2000 14:11:19 -0000
+vti_modifiedby:SR|IUSR_EAGLE
+vti_timecreated:TR|05 May 2000 15:51:00 -0000
+vti_backlinkinfo:VX|scripts/listserve/listserve.asp
+vti_extenderversion:SR|4.0.2.2717
+vti_syncwith_khaoz\:80/witbank.dropzone.co.za:TR|25 Apr 2000 14:11:19 -0000
+vti_nexttolasttimemodified:TR|25 Apr 2000 14:11:19 -0000
+vti_syncwith_www.dropzone.co.za\:80/dev.dropzone.co.za:TR|15 May 2000 12:13:21 -0000
+vti_syncwith_raven\:80/www.dropzone.co.za:TR|15 May 2000 12:13:21 -0000
